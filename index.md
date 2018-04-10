@@ -1,4 +1,4 @@
-Here you can find my first assignment.[Link](https://boun-etm58d.github.io/pj-Denizarguden/Assignment.html)
+Here you can find my first assignment.
 
 ## Welcome to GitHub Pages
 
